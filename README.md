@@ -1,2 +1,3 @@
 # logica-de-programacao
-Exercícios para fixação de conceitos de programação.
+
+Repositório criado com o intuito de fixar conceitos de programação e de modo a contribuir também, com aqueles que estão iniciando.
